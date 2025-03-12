@@ -42,11 +42,17 @@ Ministry of Defence
 ## Technology Stack
 
 React.js 
+
 CSS 
+
 WebRTC
+
 Node.js 
+
 Express
+
 MongoDB 
+
 AWS 
 
 ## Dependencies
